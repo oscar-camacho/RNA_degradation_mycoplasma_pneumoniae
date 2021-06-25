@@ -3,7 +3,7 @@
 This is a GitHub repository with Supplementary Materials and Python scripts from the master's thesis entitled "Genome-wide analysis of RNA degradation in Mycoplasma pneumoniae". 
 
 - Author: Oscar Camacho Martínez
-- Supervisor: Professor Luis Serrano
+- Supervisor: Professor Luis Serrano Pubul
 - Centre for Genomic Regulation
 - Universitat Pompeu Fabra
 
