@@ -28,7 +28,7 @@ Supplementary Table 4 is included. It consists of a table with half-life, R² of
 - rf_classifier.ipynb: Jupyter notebook used to perform the classification of half-life of genes based on different gene/genomic features, using a random forest classifier algorithm.
 
 ### Clustering of profiles
-- clustering.py: Python script used to classifier the RNA decay profiles into different groups/clusters using a k-means algorithm.
+- clustering.py: Python script used to classify the RNA decay profiles into different groups/clusters using a k-means algorithm.
 
 ### Statistical analyses
 
