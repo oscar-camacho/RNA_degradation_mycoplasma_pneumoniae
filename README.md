@@ -8,14 +8,11 @@ This is a GitHub repository with Supplementary Data and Python scripts for the a
 
 ## Supplementary Data
 
-Supplementary Data S4 is included. It consists of a table with half-life, R² of the adjustment of RNA decay to the exponential decay curve, fold change in expression due to glucose starvation and novobiocin treatment (10 µg/ml), and transcription rate for each annotated gene in M. pneumoniae.
+- supplementary_data_S4.csv: Half-life, R² of the adjustment of RNA decay to the exponential decay curve, fold change in expression due to glucose starvation and novobiocin treatment (10 µg/ml), and transcription rate for each annotated gene in M. pneumoniae.
+- supplementary_data_S5.csv: Annotated coordinates and all the calculated features for each gene (ORF, ncRNA, tRNA, rRNA) in M. pneumoniae.
+- supplementary_data_S6.csv: Annotated coordinates and all the calculated features for each sliding window in which the M. pneumoniae genome was divided.
 
-## Python scripts and datasets
-
-### Genome annotation datasets + features
-
-- transcript_annotation.csv: Dataset with the annotated coordinates for each gene (ORF, ncRNA, tRNA, rRNA), with all the calculated features for each one used in association analyses with half-life.
-- windows_annotation.csv: Dataset with the annotated coordinates for each sliding window in which the genome was divided, with all the calculated features for each one used in association analyses with half-life.
+## Python scripts
 
 ### Half-life calculations
 
