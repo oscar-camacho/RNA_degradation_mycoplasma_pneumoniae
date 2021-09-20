@@ -1,11 +1,9 @@
 # Genome-wide analysis of RNA degradation in Mycoplasma pneumonaie
 
-This is a GitHub repository with Supplementary Materials and Python scripts from the master's thesis entitled "Genome-wide analysis of RNA degradation in Mycoplasma pneumoniae". 
+Oscar Camacho<sup>1,2,\*</sup>, Samuel Miravet-Verde<sup>1</sup>, Luis Serrano<sup>1,2,3,\*</sup> and Marc Weber<sup>1</sup>
 
-- Author: Oscar Camacho Martínez
-- Supervisor: Professor Luis Serrano Pubul
-- Centre for Genomic Regulation
-- Universitat Pompeu Fabra
+This is a GitHub repository with Supplementary Data and Python scripts for the article entitled "Genome-wide analysis of RNA degradation in Mycoplasma pneumoniae". 
+
 
 
 ## Supplementary Data
