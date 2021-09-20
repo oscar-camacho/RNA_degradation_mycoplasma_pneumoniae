@@ -8,9 +8,9 @@ This is a GitHub repository with Supplementary Materials and Python scripts from
 - Universitat Pompeu Fabra
 
 
-## Supplementary Materials
+## Supplementary Data
 
-Supplementary Table 4 is included. It consists of a table with half-life, R² of the adjustment of RNA decay to the exponential decay curve, fold change in expression due to glucose starvation and novobiocin treatment (10 µg/ml), and transcription rate for each annotated gene in M. pneumoniae.
+Supplementary Data S4 is included. It consists of a table with half-life, R² of the adjustment of RNA decay to the exponential decay curve, fold change in expression due to glucose starvation and novobiocin treatment (10 µg/ml), and transcription rate for each annotated gene in M. pneumoniae.
 
 ## Python scripts and datasets
 
