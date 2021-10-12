@@ -8,9 +8,10 @@ This is a GitHub repository with Supplementary Data and Python scripts for the a
 
 ## Supplementary Tables
 
-- supplementary_table_S5.csv: Half-life, R² of the adjustment of RNA decay to the exponential decay curve, fold change in expression due to glucose starvation and novobiocin treatment (10 µg/ml), and transcription rate for each annotated gene in M. pneumoniae.
-- supplementary_table_S6.csv: Annotated coordinates and all the calculated features for each gene (ORF, ncRNA, tRNA, rRNA) in M. pneumoniae.
-- supplementary_table_S7.csv: Annotated coordinates and all the calculated features for each sliding window in which the M. pneumoniae genome was divided.
+- supplementary_table_S5.csv: Half-life, coefficient of determination for the RNA decays and fold change in expression due novobiocin treatment (10 µg/ml) for each annotated gene in M. pneumoniae genome.
+- supplementary_table_S6.csv: Fold changes in gene expression due to RNase III knockout and RNase R, J1, J2 and Y overexpression for each gene in MPN genome.
+- supplementary_table_S7.csv: Annotated coordinates and all the calculated features for each gene (ORF, ncRNA, tRNA, rRNA) in M. pneumoniae genome.
+- supplementary_table_S8.csv: Annotated coordinates and all the calculated features for each sliding window in which the M. pneumoniae genome was divided.
 
 ## Python scripts
 
