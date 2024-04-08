@@ -10,15 +10,8 @@ This is a GitHub repository with Supplementary Data and Python scripts for the a
 
 - supplementary_table_S5-S7.csv:
   -  Table S5: Values and statistics determined for each gene in MPN. Such values include RNA half-life and coefficient of determination (R squared) from the fit of the expression values to a negative exponential decay for WT and RNase III KO strains, fold change in half-life in RNase III KO, normalized gene expression for WT and RNAse III KO strains, and log2 fold change in gene expression in RNase III KO, treatment with novobiocin at 10 ug/ml and overexpression RNases R, J1, J2 and Y.
-
-
-
-
-
-- Half-life, coefficient of determination for the RNA decays and fold change in expression due novobiocin treatment (10 µg/ml) for each annotated gene in M. pneumoniae genome.
-- supplementary_table_S6.csv: Fold changes in gene expression due to RNase III knockout and RNase R, J1, J2 and Y overexpression for each gene in M. pneumoniae genome.
-- supplementary_table_S7.csv: Annotated coordinates and all the calculated features for each gene (ORF, ncRNA, tRNA, rRNA) in M. pneumoniae genome.
-- supplementary_table_S8.csv: Annotated coordinates and all the calculated features for each sliding window in which the M. pneumoniae genome was divided.
+  - Table S6: Annotated coordinates and all the calculated features for each gene in the MPN genome.
+  - Table S7: Annotated coordinates and all the calculated features for each 50 bp sliding window in which the MPN genome was divided.
 
 ## Python scripts
 
