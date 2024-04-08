@@ -9,7 +9,7 @@ This is a GitHub repository with Supplementary Data and Python scripts for the a
 ## Supplementary Tables
 
 - supplementary_table_S5-S7.csv:
-* Table S5: Values and statistics determined for each gene in MPN. Such values include RNA half-life and coefficient of determination (R squared) from the fit of the negative exponential decay for WT and RNase III KO strains, fold change in half-life upon RNase III KO, normalized gene expression for WT and RNAse III KO strains, and log2 fold change in gene expression upon RNase III KO, treatment with novobiocin at 10 ug/ml and overexpression RNases R, J1, J2 and Y.
+  -  Table S5: Values and statistics determined for each gene in MPN. Such values include RNA half-life and coefficient of determination (R squared) from the fit of the expression values to a negative exponential decay for WT and RNase III KO strains, fold change in half-life in RNase III KO, normalized gene expression for WT and RNAse III KO strains, and log2 fold change in gene expression in RNase III KO, treatment with novobiocin at 10 ug/ml and overexpression RNases R, J1, J2 and Y.
 
 
 
